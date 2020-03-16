@@ -2,8 +2,6 @@
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).
 
-## 9. razred
+## [9. razred](9razred/)
 
-* [Zgodovina](9razred/zgodovina)
-
-## 6. razred
+## [6. razred](6razred/)
