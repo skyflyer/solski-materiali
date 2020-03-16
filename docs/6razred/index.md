@@ -1,4 +1,7 @@
-## 6. razred
+---
+title: 6. razred
+summary: ucna snov za 6. razred
+---
 
 ### 17. 3. 2020
 

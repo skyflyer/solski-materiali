@@ -1,8 +1,7 @@
-## 9. razred
-
-### 16. 3. 2020
-
-* [Zgodovina](zgodovina/blokovsko-razdeljen-svet.pdf)
+---
+title: 9. razred
+summary: ucna snov za 9. razred
+---
 
 ### 17. 3. 2020
 
@@ -46,3 +45,7 @@
 * [Kemija](kemija/2020-03-17-kemija.pdf)
 * [Matematika](matematika/2020-03-17-matematika.pdf)
 * [GUM - rock glasba](gum/Glasba-rock.pdf)
+
+### 16. 3. 2020
+
+* [Zgodovina](zgodovina/blokovsko-razdeljen-svet.pdf)
