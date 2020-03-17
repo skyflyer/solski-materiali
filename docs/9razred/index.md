@@ -11,6 +11,7 @@ summary: ucna snov za 9. razred
 
 ### 18. 3. 2020
 
+* [Sportna vzgoja](2020-03-18-telesna-vzgoja.pdf)
 * [Geografija - poselitev](geografija/2020-03-18-poselitev.pdf)
 * Biologija:
 

@@ -34,6 +34,7 @@ summary: ucna snov za 6. razred
     * [Ploscina pravokotnika - naloge](matematika/2020-03-18-ploscina_pravokotnika.pdf)
 
 * [Anglescina](anglescina/2020-03-18-anglescina.pdf)
+* [Sportna vzgoja](2020-03-18-sport.pdf)
 
 ### 17. 3. 2020
 
