@@ -3,6 +3,51 @@ title: 9. razred
 summary: ucna snov za 9. razred
 ---
 
+### 19. 3. 2020
+
+* Slovenscina
+    * [Podredno zlozena poved](slovenscina/podredno-zlozena-poved.pdf)
+    * [Vaje](slovenscina/2020-03-19-vaje.pdf)
+
+### 18. 3. 2020
+
+* [Geografija - poselitev](geografija/2020-03-18-poselitev.pdf)
+* Biologija:
+
+    >Nadaljujmo naše raziskovanje o nastanku življenja na Zemlji.
+    >Prepiši tekst v zvezek in odgovori na vprašanja!
+    >Nastanek življenja
+    >
+    >O nastanku življenja na Zemlji obstaja vrsta hipotez.
+    >KAJ JE HIPOTEZA?
+    >POZNAŠ KAKŠNO HIPOTEZO O NASTANKU ŽIVLJENJA NA ZEMLJI?
+    >KAJ VEŠ O FRANCOSKEM KEMIKU IN MIKROBIOLOGU LOUISU PASTEURJU? ( 19. stoletje)
+    >KAJ JE BIOGENEZA?
+    >
+    >Danes prevladujoča hipoteza o nastanku življenja na Zemlji je BIOKEMIJSKA EVOLUCIJSKA HIPOTEZA:
+    >- življenje je nastalo v »prajuhi« pred 3.5 milijardami let
+    >- v takratnih razmerah so iz anorganskih molekul ( H2O, NH3, CO2, H2S,..) nastale preproste organske molekule; metan, aminokisline, …
+    >- te so se povezovale v vedno bolj zapletene molekule
+    >- v več milijonih let so nastale molekule beljakovin, nukleinskih kislin, molekule enostavnih sladkorjev in lipidov
+    >- skupki organskih molekul so se obdali z zunanjim dvojnim slojem lipidov; to je celična membrana
+    >- razvilo se je notranje okolje
+    >Razvili so se prvi enocelični organizmi.
+    >
+    >Prvi organizmi so bili anaerobni. Živeli so brez kisika. Hranili so se z organskimi molekulami v oceanu- prajuhi. Bili so heterotrofi.
+    >
+    >KAJ SO ANAEROBNI ORGANIZMI?
+    >KAJ SO HETEROTROFI?
+    >ZAKAJ JE BILO PRVO ŽIVLJENJE VEZANO LE V VODI? ( UV-sevanje, hrana)
+    >
+    >Modrozelene cepljivke – cianobakterije so prvi avtotrofni organizmi.
+    >
+    >KAJ SO AVTOTROFI? KAKO SO SE PREHRANJEVALI TI ORGANIZMI. 
+    >
+    >V ozračje se je pričel kopičiti kisik.
+    >Koncentracija kisika je omogočila nastanek ozonske plasti. Življenje se je razširilo na kopno.
+
+* [Kemija](kemija/Navodila2KEM9.pdf)
+
 ### 17. 3. 2020
 
 * [Slovenscina - zamejci, izseljenci](slovenscina/ZAMEJCI-IZSELJENCI.pdf)
