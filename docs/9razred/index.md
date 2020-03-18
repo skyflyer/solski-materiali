@@ -3,11 +3,36 @@ title: 9. razred
 summary: ucna snov za 9. razred
 ---
 
+<!--
+Drug teden
+
+* [Geografija - opis obsredozemskih pokraijn](geografija/OPIS-OBSREDOZEMSKIH-POKRAJIN.pdf) - v zvezek.
+
+### 20. 3. 2020
+
+* [SLO - pripredno zlozena poved](slovenscina/2020-03-20-priredno-zlozena-poved.pdf)
+
+-->
+
 ### 19. 3. 2020
 
 * Slovenscina
     * [Podredno zlozena poved](slovenscina/podredno-zlozena-poved.pdf)
     * [Vaje](slovenscina/2020-03-19-vaje.pdf)
+* [Fizika - notranja energija](fizika/Navodila1FIZ9.pdf)
+
+    > Sporočam vam tudi, da na strani [www.iRokus.si](https://www.iRokus.si) lahko uporabljate, brezplačno, učbenik in DZ za FIZ , če ga vaš otrok nima doma.
+
+* [Matematika - snov in vaje](matematika/2020-03-19-matematika.pdf)
+* Sportna vzgoja: Dusan sporoca:
+
+    > Prosim vas, da učenci do petka, 20. 3. 2020 napravijo tabelo in na kratko vnesejo vsa opravila, ki so jih opravili v zvezi vadbo športa na domu. 
+    > Podatke mi pošljite do petka zvečer. Rad bi dobil povratne informacije.
+    > 
+    > Pri nas s sinovoma doma opravljamo vadbo, ki jo dobita s strani trenerjev in učiteljev. Opravili smo dva kolesarska izleta. 
+    > Igrišče sva z mlajšim sinom obiskala zgodaj zjutraj, ko ni bilo nobenega.
+    > 
+    > Očitno bom moral opustiti tudi obisk igrišča.
 
 ### 18. 3. 2020
 

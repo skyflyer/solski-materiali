@@ -3,6 +3,22 @@ title: 6. razred
 summary: ucna snov za 6. razred
 ---
 
+<!--
+### 20. 3. 2020
+
+* Slovenscina: samostojno branje
+-->
+
+### 19. 3. 2020
+
+* Zgodovina
+    * [Navodila za zgodovino](zgodovina/2020-03-19-navodila.pdf)
+    * [005-NESNOVNA-KULTURNA-DEDISCINA-in-navade.pdf](zgodovina/005-NESNOVNA-KULTURNA-DEDISCINA-in-navade.pdf)
+    * [006_kulturna_dediscina.pdf](zgodovina/006_kulturna_dediscina.pdf)
+    * [Preverjanje 2020](zgodovina/preverjanje_2020.pdf)
+* [SLO - preteklik vaje](slovenscina/preteklik-vaje.pdf)
+* [MAT - ploscina kvadrata](matematika/2020-03-19-ploscina-kvadrata.pdf)
+
 ### 18. 3. 2020
 
 * [SLO - preteklik](slovenscina/preteklik-nadaljevanje.pdf)
