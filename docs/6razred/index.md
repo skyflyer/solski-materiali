@@ -3,11 +3,42 @@ title: 6. razred
 summary: ucna snov za 6. razred
 ---
 
-<!--
 ### 20. 3. 2020
 
-* Slovenscina: samostojno branje
--->
+* [Sport](sport/2020-03-20-sport.pdf)
+* [Matematika](matematika/2020-03-20-utrjevanje.pdf)
+* [Slovenscina](slovenscina/2020-03-20-preteklik-vaje.pdf)
+* [Geografija](geografija/2020-03-20-geografija.pdf)
+* Naravoslovje
+
+    >Pozdravljeni učenci 6.a razreda
+    >
+    >Pošiljam delo za petek, 20.3. 2020:
+    >
+    >### ZGRADBA BRSTNIC učbenik stran 72, 73
+    >Skiciraj rastlino krompir, ki je v učbeniku na strani 72! Označi rastlinske organe!
+    >Za vsak rastlinski organ zapiši, katero nalogo opravlja in poveži njegovo zgradbo z njegovo nalogo.
+
+* LUM:
+
+    >Učiteljica Irena Žle si želi z vami, še naprej izvajati pouk likovne umetnosti na daljavo .Verjetno tudi vi?😊
+    >
+    >Ker imamo zvezke, si boste v njih zapisovali o novih likovnih pojmih, katere bomo spoznali. 
+    >
+    >Začeli bomo z likovnim področjem kiparstvo.
+    >
+    >Pošiljam ppt, katerega si oglej in napiši povzetek o reliefu v zvezek. Ker bomo prilagodili izvedbo likovne naloge na material, ki ga boš našel doma ali v naravi, boš oblikoval relief iz papirja.
+    >
+    >LIKOVNA NALOGA: Relief iz papirja
+    >
+    >Potek dela: Poišči ustrezno tršo podlago, na katero boš lepil različno oblikovane trakove iz papirja. Oblikuješ po lastni domišljiji in seveda si pozoren na tehnično izvedbo.  
+    >
+    >Bodi izviren, samostojen in prizadeven pri izvedbi likovne naloge na daljavo.😉
+    >
+    >Lepo vas pozdravlja in želi vse dobro učiteljica Irena Žle.
+
+    * [Reciklirajmo](lum/reciklirajmo.pdf)
+    * [Relief iz gline](lum/RELIEF_IZ_GLINE.pdf)
 
 ### 19. 3. 2020
 

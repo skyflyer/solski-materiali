@@ -5,15 +5,58 @@ summary: ucna snov za 9. razred
 
 <!--
 Drug teden
+* [Geografija - opis obsredozemskih pokraijn](geografija/OPIS-OBSREDOZEMSKIH-POKRAJIN.pdf) - v zvezek (ostale strani)
+
+-->
 
 ### 20. 3. 2020
 
 * [SLO - pripredno zlozena poved](slovenscina/2020-03-20-priredno-zlozena-poved.pdf)
+* Zgodovina:
 
-* [Geografija - opis obsredozemskih pokraijn](geografija/OPIS-OBSREDOZEMSKIH-POKRAJIN.pdf) - v zvezek (ostale strani)
+    >Pozdravljeni devetošolci.
+    >Upam da ste vsi zdravi in da preživljate ta čas čimbolj aktivno in ustvarjalno. Učiteljica Irena Žle si želi z vami, dragi učenci še naprej izvajati ure Likovne umetnosti na daljavo. Verjetno tudi vi?😉
+    >Začeli bomo z likovnim področjem Oblikovanje prostora.
+    >Likovna naloga : NAČRTOVANJE IN OBLIKOVANJE STAVB, NOTRANJIH PROSTOROV IN OPREME (npr. stol..)
+    >Likovna tehnika: Papir
+    >Na spletu poišči slovenske in svetovno priznane oblikovalce PROSTORA in OPREME. V zvezek ali na list napiši imena tistih, ki so te navdušili  s svojim oblikovanjem OPREME.
+    >Izberi si predmet in ga oblikuj v tehniki iz papirja ( npr. stol).S prepogibanjem, rezanjem,  lepljenjem oblikuj npr. stol in pri tem uporabi svojo domišljijo in izvirnost. Bodi pozoren na tehnično izvedbo.
+    >
+    >Cilji reševanja likovnih problemov:
+    >
+    >- analizirajo ureditev skupnega okolja (okolje, oblika in velikost zgradb glede na stavbno okolico, namembnost stavb, novogradnje in prenove, zaščita stavbne dediščine – kulturni spomeniki)
+    >- opredelijo osnovne naloge arhitekta kot načrtovalca stavb (uporabnost, konstrukcijska stabilnost, oblika stavbe, materiali)
+    >- analizirajo posebnosti načrtovanja notranjih prostorov (oblika prostorov, velikostna razmerja notranjih prostorov – uporabnost, skladnost, namembnost prostorov, svetlost, zračnost, temperatura prostorov) - z različnimi materiali oblikujejo prostorske tvorbe s poudarkom na obliki in konstrukcijski stabilnosti
+    >- načrtujejo preureditev ožjega bivalnega prostora - privzgajajo čut za funkcionalno in estetsko obliko zgradb
+    >- se navajajo na oblikovanje skladnih in uporabnih oblik notranjih prostorov po lastni zamisli
+    >- razvijajo pravilen odnos do zaščite slovenske kulturne dediščine
+    >- privzgajajo zavest o uporabi zdravih, naravnih gradbenih materialov
+    > 
+    >Bodite zdravi in vse dobro vam želim.
 
+* [Fizika](fizika/Navodila2FIZ9.pdf)
+* [Matematika](matematika/2020-03-20-matematika.pdf)
+* Zgodovina:
+    * [Danasnja snov](zgodovina/PETEK_20.3.pdf)
+    * [Blokovsko razdeljen svet - resitve](zgodovina/blokovsko-razdeljen-svet-resitve.pdf)
+    * [15-sodelovanje-in-nasprotje-po-drugi-sv-vojni.pdf](zgodovina/15-sodelovanje-in-nasprotje-po-drugi-sv-vojni.pdf)
+    * [16 blokovnsko razdeljen svet](zgodovina/blokovsko-razdeljen-svet.pdf)
+    * [17-kaksne-so-bile-posledice-hladne-vojne-v-evropi.pdf](zgodovina/17-kaksne-so-bile-posledice-hladne-vojne-v-evropi.pdf)
+* LUM - izbirno:
 
--->
+    >S pomočjo Pawer Pointa ponovimo  o prostoru, prostorskih ključih s poudarkom na perspektivi.Predstavitev in razlaga anamorfroze in aspektive s slikovnimi primeri iz umetnostne zgodovine ter vsakdanjega življenja.
+    >
+    >Poišči  na spletu tudi umetnike, ki so ustvarjali z uporabo  pravil aspektive, obrnjene perspektive.
+    >
+    >LIKOVNA NALOGA: Nariši motiv po lastni izbiri ( portret, tihožitje, ...)  z uporabo pravil obrnjene perspektive.
+    >
+    >Pri izvedbi likovne naloge uporabi svojo izvirnost in prizadevnost in seveda bodi pozoren na tehnično izvedbo.
+    >
+    >Veliko ustvarjalnosti vam želim in pogumno naprej tudi v sožitju z naravo.
+
+    * [Anamorfoza 20. 3. 2020](lum/ANAMORFROZA-LS3.pdf)
+
+* Sport - [merjenje utripa](sport/merjenje-srcnega-utripa.pdf)
 
 ### 19. 3. 2020
 
@@ -40,7 +83,7 @@ Drug teden
 
 ### 18. 3. 2020
 
-* [Sportna vzgoja](2020-03-18-telesna-vzgoja.pdf)
+* [Sportna vzgoja](sport/2020-03-18-telesna-vzgoja.pdf)
 * [Geografija - poselitev](geografija/2020-03-18-poselitev.pdf)
 * Biologija:
 
