@@ -6,11 +6,12 @@ summary: ucna snov za 9. razred
 <!--
 Drug teden
 
-* [Geografija - opis obsredozemskih pokraijn](geografija/OPIS-OBSREDOZEMSKIH-POKRAJIN.pdf) - v zvezek.
-
 ### 20. 3. 2020
 
 * [SLO - pripredno zlozena poved](slovenscina/2020-03-20-priredno-zlozena-poved.pdf)
+
+* [Geografija - opis obsredozemskih pokraijn](geografija/OPIS-OBSREDOZEMSKIH-POKRAJIN.pdf) - v zvezek (ostale strani)
+
 
 -->
 
@@ -22,6 +23,9 @@ Drug teden
 * [Fizika - notranja energija](fizika/Navodila1FIZ9.pdf)
 
     > Sporočam vam tudi, da na strani [www.iRokus.si](https://www.iRokus.si) lahko uporabljate, brezplačno, učbenik in DZ za FIZ , če ga vaš otrok nima doma.
+
+* [Geografija - opis obsredozemskih pokraijn](geografija/OPIS-OBSREDOZEMSKIH-POKRAJIN.pdf) - v zvezek (1. stran)
+
 
 * [Matematika - snov in vaje](matematika/2020-03-19-matematika.pdf)
 * Sportna vzgoja: Dusan sporoca:
