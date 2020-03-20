@@ -12,7 +12,7 @@ Drug teden
 ### 20. 3. 2020
 
 * [SLO - pripredno zlozena poved](slovenscina/2020-03-20-priredno-zlozena-poved.pdf)
-* Zgodovina:
+* Likovna umetnost:
 
     >Pozdravljeni devetošolci.
     >Upam da ste vsi zdravi in da preživljate ta čas čimbolj aktivno in ustvarjalno. Učiteljica Irena Žle si želi z vami, dragi učenci še naprej izvajati ure Likovne umetnosti na daljavo. Verjetno tudi vi?😉
