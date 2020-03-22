@@ -68,7 +68,8 @@ Drug teden
     > Sporočam vam tudi, da na strani [www.iRokus.si](https://www.iRokus.si) lahko uporabljate, brezplačno, učbenik in DZ za FIZ , če ga vaš otrok nima doma.
 
 * [Geografija - opis obsredozemskih pokraijn](geografija/OPIS-OBSREDOZEMSKIH-POKRAJIN.pdf) - v zvezek (1. stran)
-
+    * [Obsredozemske pokraijne - 1. del](geografija/OBSREDOZEMSKE-POKRAJINE-1del.pdf)
+    * [Obsredozemske pokraijne - 2. del](geografija/OBSREDOZEMSKE-POKRAJINE-2del.pdf)
 
 * [Matematika - snov in vaje](matematika/2020-03-19-matematika.pdf)
 * Sportna vzgoja: Dusan sporoca:
