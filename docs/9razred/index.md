@@ -23,6 +23,7 @@ Drug teden
 * [Angleščina - Koudila](anglescina/2020-03-23-anglescina.pdf)
 * [Angleščina - Podgornik](anglescina/2020-03-23-anglescina-lori.pdf)
 * [GUM - Rock v Sloveniji](gum/2020-03-23-rock-v-sloveniji.pdf)
+* [Slovenscina - vrste priredij](slovenscina/2020-03-23-vrste-priredij.pdf)
 * Zgodovina
     * [Navodila](zgodovina/2020-03-23-zgodovina.pdf)
     * [Kakšne so bile posledice hladne vojne v svetu](zgodovina/18-Kaksne-so-bile-posledice-hladne-vojne-v-svetu.pdf)

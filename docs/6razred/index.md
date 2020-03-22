@@ -5,6 +5,7 @@ summary: ucna snov za 6. razred
 
 ### 23. 3. 2020
 
+* [Slovenščina - prihodnjik](slovenscina/2020-03-23-prihodnjik.pdf)
 * [Anglescina](anglescina/2020-03-23-anglescina.pdf)
 * [GUM - simfonija](gum/simfonija_6.pdf)
     * [Youtube posnetek](https://www.youtube.com/watch?v=UkFs5glUMjw)

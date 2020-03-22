@@ -5,7 +5,7 @@ summary: ucna snov za 9. razred
 
 ### 20. 3. 2020
 
-* [SLO - pripredno zlozena poved](slovenscina/2020-03-20-priredno-zlozena-poved.pdf)
+* [SLO - priredno zlozena poved](slovenscina/2020-03-20-priredno-zlozena-poved.pdf)
 * Likovna umetnost:
 
     >Pozdravljeni devetošolci.
