@@ -1,5 +1,6 @@
 site_name: Šolski materiali
 theme: 'material'
 nav:
-  - 6. razred: '6razred/'
-  - 9. razred: '9razred/'
+  - Domov: 'index.md'
+  - 6. razred: '6razred/index.md'
+  - 9. razred: '9razred/index.md'
