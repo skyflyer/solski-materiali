@@ -3,6 +3,17 @@ title: 6. razred
 summary: ucna snov za 6. razred
 ---
 
+### 24. 3. 2020
+
+* [Sport](sport/2020-03-24-sport.pdf)
+* [Slovenscina](slovenscina/2020-03-24-slo.pdf)
+* [Anglescina](anglescina/2020-03-24-ang.pdf)
+* Matematika:
+    * [Ploscine sestavljenih likov](matematika/2020-03-24-ploscine.pdf)
+    * [Priloga 1](matematika/2020-03-24-priloga1.jpg)
+    * [Priloga 2](matematika/2020-03-24-priloga2.jpg)
+    * [Priloga 3](matematika/2020-03-24-priloga3.jpg)
+
 ### 23. 3. 2020
 
 * [Slovenščina - prihodnjik](slovenscina/2020-03-23-prihodnjik.pdf)
