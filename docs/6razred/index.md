@@ -3,6 +3,31 @@ title: 6. razred
 summary: ucna snov za 6. razred
 ---
 
+### 25. 3. 2020
+
+* [Gospodinjstvo](gospodinjstvo/2020-03-25-gospodinjstvo.pdf)
+* TIT:
+    * V skladu z načrtom pouka na daljavo Vam pošiljam navodila za delo Vašega otroka, ki obiskuje TIT za 6. razred.
+    * Vaš otrok naj obišče spletno stran: [http://www2.arnes.si/~evelik1/les/index.htm](http://www2.arnes.si/~evelik1/les/index.htm) in dobro prebere učne vsebine pod zavihkom Nastanek lesa, Vrste lesa in Lastnosti lesa.
+    * Zatem naj v spletni učilnici TIT, RAČ v poglavju TIT 6 (Lesna gradiva) reši kviz o Nastanku, vrstah in lastnostih lesa.  
+    * Vstop v učilnico je sedaj vstop možen brez AAI računa, prav tako enako velja za reševanje kviza.
+* Matematika
+    * Pozdravljeni, 
+moji junaki in starši.
+Upam, da ste zdravi in z lahkoto delate doma. Za jutri sem pripravila širok izbor različnih nalog. Izbere jih po svoji želji, želim, da ne samo najlažje. Sporočite mi, koliko ste uspeli rešiti, Če bodo kje težave, sporočite, bom pomagala. 
+    * [Naloge](matematika/2020-03-25-matematika.pdf)
+* [Slovenscina](slovenscina/2020-03-25-slovenscina.pdf)
+* Sport - [navodila](sport/2020-03-25-sport.pdf)
+
+    >Pošiljam pripravo za 5.uro športa za deklice 6.r.
+    >
+    >Obveščam vas, da so deklice povabljene vsak dan v Zoom sobo ob 10.00 uri dopoldan, kjer se vidimo v živo, se lahko pozdravijo s sošolkami in skupaj telovadimo.
+    >
+    >Dostop do Zoom sobe: [https://zoom.us/j/102248913](https://zoom.us/j/102248913)
+    >
+    >Meeting ID: 102 248 913
+
+
 ### 24. 3. 2020
 
 * [Sport](sport/2020-03-24-sport.pdf)
