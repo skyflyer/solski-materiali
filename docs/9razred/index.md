@@ -3,11 +3,56 @@ title: 9. razred
 summary: ucna snov za 9. razred
 ---
 
-<!--
-Drug teden
-* [Geografija - opis obsredozemskih pokraijn](geografija/OPIS-OBSREDOZEMSKIH-POKRAJIN.pdf) - v zvezek (ostale strani)
+### 25. 3. 2020
 
--->
+* [Anglescina](anglescina/2020-03-25-anglescina.pdf)
+* [Anglescina - Lori](anglescina/2020-03-25-ang-lori.pdf)
+* Geografija:
+
+    >Teden je naokrog in ponovno pošiljam učno gradivo OBSREDOZEMSKE POKRAJINE. 
+    >
+    >Navodilo učencem: 
+    >
+    >če še nisi v celoti odgovoril/a na vsa vprašanja- naredi to sedaj (jutri ali v četrtek) 
+    >reši križanko, katere geslo je nenavadna beseda (pojem), ki se tiče KOPRSKEGA primorja 
+    >
+    >učni list: JADRANSKO MORJE 
+    >
+    >učnilist: luka KOPER 
+    >
+    >TO lahko delaš za sredo in četrtek.  Uspešno rešuj in ostani ZDRAV  doma! 
+
+    * [Geografija - opis obsredozemskih pokraijn](geografija/OPIS-OBSREDOZEMSKIH-POKRAJIN.pdf) - v zvezek (ostale strani)
+    * [Krizanka](geografija/2020-03-25-krizanka.pdf)
+    * [Luka Koper](geografija/luka-koper.pdf)
+    * [Jadransko morje](geografija/jadransko-morje.pdf)
+
+* [Kemija](kemija/2020-03-25-kemija.pdf)
+* [Biologija](biologija/2020-03-25-biologija.pdf)
+* Sport
+
+    >Pozdravljeni.
+    >
+    >Pošiljam vam gradivo za naslednje ure v tem tednu.
+    >
+    >Jutri bom poskušal zagnati virtualno učilnico ZOOM za učence 6. in 7. razredov.
+    >
+    >Začeli naj bi ob 9.00 uri, če bo vse potekalo brez težav.
+    >
+    >V četrtek, 26. 3. 2020 pa še za učence 8. in 9. razredov.
+
+    * [Razlicne oblike gibanja](sport/2020-03-25-gibanje.pdf)
+
+* Matematika
+
+    >Pozdravljeni.
+    > 
+    >Glede na to, da je že en teden dela na daljavo za nami, bi prosila moje učence, da izpolnijo čisto kratko anketo. Če bo dober odziv, bom v bodoče na podoben način preverjala, kako dobro razumejo podano snov.
+    > 
+    >Anketa je dostopna na povezavi:
+    > 
+    >[https://www.1ka.si/a/263885](https://www.1ka.si/a/263885)
+
 
 ### 24. 3. 2020
 
