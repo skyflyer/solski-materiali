@@ -3,6 +3,23 @@ title: 6. razred
 summary: ucna snov za 6. razred
 ---
 
+### 26. 3. 2020
+
+* [Slovenscina](slovenscina/2020-03-26-slovenscina.pdf)
+* Matematika:
+
+    >POZDRAVLJENI,
+    >- ponovili bomo ploščino in obseg sestavljenih likov; 
+    >- pretvarjenja;
+    >- izračun izraza;
+    >- če je še volja in moč, pa še včerajšnje naloge.
+    >Namenoma jih je bilo več, da lažje izbirate in rešujete po želji. 
+
+    * [Naloge](matematika/2020-03-26-matematika.pdf)
+
+* [Anglescina](anglescina/2020-03-26-anglescina.pdf)
+* [Zgodovina](zgodovina/2020-03-26-zgodovina.pdf)
+
 ### 25. 3. 2020
 
 * [Gospodinjstvo](gospodinjstvo/2020-03-25-gospodinjstvo.pdf)
