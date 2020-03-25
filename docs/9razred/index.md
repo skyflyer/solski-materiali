@@ -3,6 +3,28 @@ title: 9. razred
 summary: ucna snov za 9. razred
 ---
 
+### 26. 3. 2020
+
+* Geografija:
+    * [Utrjevanje snovi](https://eucbeniki.sio.si/geo9/2652/index1.html)
+    * naloge za ponavljanje v e UČBENIKU GEO .9 na str.205 - 210  
+    * povzetek na str. 214
+    * poselitev prebivalstva na str. 215 
+    * gospodarstvo str. 217 in povzetek na str.218  
+    * [Jadransko morje](geografija/jadransko-morje.pdf)
+    * [Luka Koper](geografija/luka-koper.pdf)
+* [Fizika](fizika/Navodila3FIZ9.pdf)
+* [Slovenscina](slovenscina/2020-03-26-slovenscina.pdf)
+* [Matematika](matematika/2020-03-26-matematika.pdf)
+* [Anglescina - Koudila](anglescina/2020-03-26-koudila.pdf)
+* [Anglescina - Podgornik](anglescina/2020-03-26-podgornik.pdf)
+* Likovno snovanje: Pozdravljeni dragi učenci.
+Zaključili smo prvi teden pouka na daljavo.Prinesel je šolske in druge izzive. 
+Ta teden nadaljujemo na lik.področju risanja, kjer rešujemo likovno nalogo obrnjene perspektive.
+Verjetno ste se že lotili  likovnega izražanja?😊Vesela bom vseh vaših odzivov, povratnih informacij, kako vam gre pri reševanju likovne naloge na daljavo?
+Ostanite zdravi, ustvarjalni in aktivni.
+Pozitiven pozdrav vam pošilja učiteljica Irena Žle
+
 ### 25. 3. 2020
 
 * [Anglescina](anglescina/2020-03-25-anglescina.pdf)
