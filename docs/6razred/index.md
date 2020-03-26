@@ -3,6 +3,54 @@ title: 6. razred
 summary: ucna snov za 6. razred
 ---
 
+### 27. 3. 2020
+
+* LUM - Zaključili smo prvi teden pouka na daljavo.Prinesel je šolske in druge izzive.?Vesela sem bila vseh vaših odzivov, povratnih informacij.Hvala.😊
+
+    Pošiljam vam PPT o novi likovni nalogi.V zvezek napiši  miselni vzorec o Ornamentu.Svetujem, da poiščeš tudi primere ornamentov na spletu.
+
+    LIKOVNA NALOGA: oblikuj svoj ornament v lik.tehniki, katero imaš na razpolago.
+
+    Uporabi svojo domišljijo, prizadevnost in samostojnost pri delu.
+
+    Ostanite zdravi, ustvarjalni in aktivni.
+
+    Pozitiven in topel pozdrav.
+
+* Sport: Pošiljam načrt dela za 6.uro športa za deklice. Ponovno vabim vse v Zoom sobo, kjer bomo naredile praktično vadbo, ki je v tem času še kako pomembna. V živo se vidimo vsak dan od ponedeljka do petka ob 10.00 uri.
+
+    Dostop do Zoom sobe:
+
+    Join Zoom Meeting
+
+    [https://zoom.us/j/102248913](https://zoom.us/j/102248913)
+
+    Meeting ID: 102 248 913
+
+    Ostanite zdravi in lepo pozdravljeni, Barbara Jekoš
+
+    [Navodila](sport/2020-03-27-sport.pdf)
+
+* [Naravoslovje](naravoslovje/2020-03-27-naravoslovje.pdf)
+* Geografija: Že skoraj dva tedna šole na domu sta za nami. Pomembno je, da otrok v teh dneh ohranja učno kondicijo. Prosim vas, da mi pošljete povratno informacijo ali vašim otrokom delo gre od rok. S povratno informacijo bi rada tudi preverila ali so vaši elektronski naslovi ažurni in gradivo prihaja do vas. Na šoli vzpostavljamo spletne učilnice, ki bodo olajšale delo na daljavo in razbremenile vašo elektronsko pošto.
+    * [Toplotni pasovi](geografija/2020-03-27-toplotni-pasovi.pdf)
+    * [Navodila](geografija/2020-03-27-geografija.pdf)
+* Matematika
+    Pozdravljeni, 
+    
+    za petkovo delo pošiljam še povezavo na anketo samopreverjanja. 
+    
+    [https://www.1ka.si/a/264429](https://www.1ka.si/a/264429) 
+    
+    V tem primeru ne bom dobila poimenskega seznama, ampak samo število, koliko se vas bo odzvalo in koliko učencev je rešilo prav. 
+    
+    Če mi pošljete sken ali sliko, bom pa pregledala in popravila.
+
+    * [Samopreverjanje](matematika/2020-03-27-matematika.pdf)
+    * [Samoocenjevanje](matematika/2020-03-27-matematika-samoocenjevanje.pdf)
+
+* [Slovenscina](slovenscina/2020-03-27-slovenscina.pdf)
+
 ### 26. 3. 2020
 
 * [Slovenscina](slovenscina/2020-03-26-slovenscina.pdf)
