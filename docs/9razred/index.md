@@ -3,6 +3,35 @@ title: 9. razred
 summary: ucna snov za 9. razred
 ---
 
+<!--
+### 30. 3. 2020
+
+* Zgodovina
+    * [19 - Kdaj je popustal napetost hladne vojne](zgodovina/19-kdaj-je-popustila-napetost.pdf)
+    * [Snov za 27. in 30. 3.](zgodovina/2020-03-27-30-zgodovina.pdf)
+-->
+
+# 27. 3. 2020
+
+* [Slovenscina](slovenscina/2020-03-27-slovenscina.pdf)
+* [Matematika](matematika/2020-03-27-matematika.pdf)
+* LUM - Zaključili smo prvi teden pouka na daljavo.Prinesel je šolske in druge izzive. Vesela sem bila vseh vaših odzivov, povratnih informacij.
+
+    Ta teden nadaljujemo z likovno nalogo na lik.področju prostorskega oblikovanja.
+
+    Verjetno ste se že lotili oblikovati svoj predmet iz papirja.😊Vesela bom vseh vaših odzivov, povratnih informacij, kako vam gre pri reševanju likovne naloge na daljavo?
+
+    Ostanite zdravi, ustvarjalni in aktivni.
+
+    Pozitiven pozdrav vam pošilja učiteljica Irena Žle
+
+* Zgodovina
+    * [19 - Kdaj je popustal napetost hladne vojne](zgodovina/19-kdaj-je-popustila-napetost.pdf)
+    * [Snov za 27. in 30. 3.](zgodovina/2020-03-27-30-zgodovina.pdf)
+* Fizika
+    * [Navodila](fizika/Navodila4FIZ9.pdf)
+    * [Preverjanje](fizika/PreverjanjeFIZ9poglavje_3.pdf)
+
 ### 26. 3. 2020
 
 * Geografija:
