@@ -3,6 +3,13 @@ title: 6. razred
 summary: ucna snov za 6. razred
 ---
 
+### 31. 3. 2020
+
+* [Sport](sport/2020-03-31-sport.pdf)
+* Slovenski jezik - glej vcerajsnje materiale
+* [Anglescina](anglescina/2020-03-31-anglescina.pdf)
+* Matematika?
+
 ### 30. 3. 2020
 
 * [GUM](gum/simfonicna-pesnitev.pdf)
