@@ -3,6 +3,14 @@ title: 9. razred
 summary: ucna snov za 9. razred
 ---
 
+### 31. 3. 2020
+
+* [Slovenscina](slovenscina/2020-03-31-slovenscina.pdf)
+* [Matematika](matematika/2020-03-31-matematika.pdf)
+* [Biologija](biologija/2020-03-31-biologija.pdf)
+* [Kemija](kemija/2020-03-31-kemija.pdf)
+
+
 ### 30. 3. 2020
 
 * [Slovenscina](slovenscina/2020-03-30-slovenscina.pdf)
