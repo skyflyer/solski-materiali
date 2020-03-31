@@ -8,7 +8,7 @@ summary: ucna snov za 6. razred
 * [Sport](sport/2020-03-31-sport.pdf)
 * Slovenski jezik - glej vcerajsnje materiale
 * [Anglescina](anglescina/2020-03-31-anglescina.pdf)
-* Matematika?
+* [Matematika](matematika/2020-03-31-matematika.pdf)
 
 ### 30. 3. 2020
 
