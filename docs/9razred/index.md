@@ -3,6 +3,13 @@ title: 9. razred
 summary: ucna snov za 9. razred
 ---
 
+### 1. 4. 2020
+
+* [Anglescina](anglescina/2020-04-01-anglescina.pdf)
+* Geografija? - preglej prejsnje materiale
+* [Kemija](kemija/2020-04-01-kemija.pdf)
+* [Biologija](biologija/2020-04-01-biologija.pdf)
+
 ### 31. 3. 2020
 
 * [Slovenscina](slovenscina/2020-03-31-slovenscina.pdf)
