@@ -7,7 +7,7 @@ summary: ucna snov za 9. razred
 
 * [Anglescina](anglescina/2020-04-01-anglescina.pdf)
 * Geografija
-    * [Panonske pokrajine - ppt](geografija/2020-04-01-geografija.pdf)
+    * [Panonske pokrajine - ppt](geografija/2020-04-01-geografija-ppt.pdf)
     * [Ucni list](geografija/2020-04-01-geografija.pdf)
 * [Kemija](kemija/2020-04-01-kemija.pdf)
 * [Biologija](biologija/2020-04-01-biologija.pdf)
