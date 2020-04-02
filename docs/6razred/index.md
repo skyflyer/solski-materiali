@@ -16,7 +16,7 @@ summary: ucna snov za 6. razred
     * [Navodila](anglescina/2020-04-02-anglescina.pdf)
     * [PP1](anglescina/2020-04-02-pp1.pdf)
     * [PP2](anglescina/2020-04-02-pp2.pdf)
-
+* [Slovenscina](slovenscina/2020-04-02-slovenscina.pdf)
 
 ### 1. 4. 2020
 
