@@ -5,7 +5,7 @@ summary: ucna snov za 9. razred
 
 ### 2. 4. 2020
 
-* Geografija?
+* [Geografija](geografija/2020-04-02-geografija.pdf)
 * [Fizika](fizika/2020-04-02-fizika.pdf)
 * [Slovenscina](slovenscina/2020-04-02-slovenscina.pdf)
 * [Matematika](matematika/2020-04-02-matematika.pdf)
