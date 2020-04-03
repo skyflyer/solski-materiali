@@ -3,6 +3,16 @@ title: 9. razred
 summary: ucna snov za 9. razred
 ---
 
+### 3. 4. 2020
+
+* [Slovenscina](slovenscina/2020-04-03-slovenscina.pdf)
+* [Matematika](matematika/2020-04-03-matematika.pdf)
+* LUM
+    * [Navodila](lum/2020-04-03-lum.pdf)
+    * [Naloga](lum/2020-04-03-lum-naloga.pdf)
+* [Zgodovina](zgodovina/2020-04-03-zgodovina.pdf)
+* [Fizika](fizika/2020-04-03-fizika.pdf)
+
 ### 2. 4. 2020
 
 * [Geografija](geografija/2020-04-02-geografija.pdf)
