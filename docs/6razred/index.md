@@ -8,6 +8,8 @@ summary: ucna snov za 6. razred
 * [GUM](gum/opera.pdf)
 * [Naravoslovje](naravoslovje/2020-04-06-naravoslovje.pdf)
 * [Slovenscina](slovenscina/2020-04-06-slovenscina.pdf)
-* [Anglescina](anglescina/2020-04-06-anglescina.pdf)
+* Anglescina
+    * [Navodila](anglescina/2020-04-06-anglescina.pdf)
+    * [Posnetek](anglescina/2020-04-06-anglescina.mp3)
 
 ### [Arhiv](arhiv.md)
