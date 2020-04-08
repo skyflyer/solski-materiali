@@ -3,6 +3,18 @@ title: 6. razred
 summary: ucna snov za 6. razred
 ---
 
+### 9. 4. 2020
+
+* [Slovenscina](slovenscina/2020-04-08-slovenscina.pdf)
+* [TIT](tit/2020-04-09-tit.pdf)
+* Matematika
+    * [Navodila](matematika/2020-04-09-matematika.pdf)
+    * [PPT](matematika/2020-04-09-matematika-pp.pdf)
+* Anglescina
+    * [Navodila](anglescina/2020-04-09-anglescina.pdf)
+    * [PP](anglescina/2020-04-09-furniture.pdf)
+* [Zgodovina](zgodovina/2020-04-09-zgodovina.pdf)
+
 ### 8. 4. 2020
 
 * [Gospodinjstvo](gospodinjstvo/2020-04-08-gospodinjstvo.pdf)
