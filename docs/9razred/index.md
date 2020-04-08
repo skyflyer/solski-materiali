@@ -3,6 +3,16 @@ title: 9. razred
 summary: ucna snov za 9. razred
 ---
 
+### 8. 4. 2020
+
+* Anglescina - poglej na [https://ucilnice.arnes.si/mod/folder/view.php?id=1037469](https://ucilnice.arnes.si/mod/folder/view.php?id=1037469) oz. [navodila](anglescina/2020-04-08-anglescina.pdf)
+* Geografija
+    * [Nema karta](geografija/2020-04-08-geografija-nema-karta.pdf)
+    * [Ucni list](geografija/2020-04-08-geografija.pdf)
+* [Kemija](kemija/2020-04-08-kemija.pdf)
+* Biologija - izpolni [preverjanje znanja](https://www.1ka.si/a/270733)
+* [Sport](sport/2020-04-08-sport.pdf)
+
 ### 7. 4. 2020
 
 * [Slovenscina](slovenscina/2020-04-07-slovenscina.pdf)
