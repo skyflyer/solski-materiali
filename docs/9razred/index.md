@@ -3,6 +3,19 @@ title: 9. razred
 summary: ucna snov za 9. razred
 ---
 
+### 9. 4. 2020
+
+* [Geografija](geografija/2020-04-09-geografija.pdf)
+* Fizika
+    * [Utrjevanje](fizika/2020-04-09-fizika.pdf)
+    * [Pomoc](fizika/2020-04-09-fizika-pomoc.pdf)
+* [Slovenscina](slovenscina/2020-04-09-slovenscina.pdf)
+* [Matematika](matematika/2020-04-09-matematika.pdf)
+* Anglescina
+    * [Snov](anglescina/2020-04-09-anglescina.pdf)
+    * [Powerpoint](anglescina/2020-04-09-anglescina-pp.pdf)
+* [LS3](lum/2020-04-09-ls3.pdf)
+
 ### 8. 4. 2020
 
 * Anglescina - poglej na [https://ucilnice.arnes.si/mod/folder/view.php?id=1037469](https://ucilnice.arnes.si/mod/folder/view.php?id=1037469) oz. [navodila](anglescina/2020-04-08-anglescina.pdf)
