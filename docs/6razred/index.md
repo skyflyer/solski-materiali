@@ -3,6 +3,19 @@ title: 6. razred
 summary: ucna snov za 6. razred
 ---
 
+### 10. 4. 2020
+
+* [LUM](lum/2020-04-10-lum.pdf)
+* [Sport](https://ucilnice.arnes.si/mod/folder/view.php?id=1037329)
+* [Naravoslovje](naravoslovje/2020-04-10-naravoslovje.pdf)
+* Geografija:
+    * [Navodila](geografija/2020-04-10-geografija.pdf)
+    * [Powerpoint](geografija/2020-04-10-geografija-pp.pdf)
+* Matematika
+    * [Navodila](matematika/2020-04-10-matematika.pdf)
+    * [Resitve nalog](matematika/2020-04-10-matematika.jpg)
+
+
 ### 9. 4. 2020
 
 * [Slovenscina](slovenscina/2020-04-08-slovenscina.pdf)
