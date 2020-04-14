@@ -3,6 +3,58 @@ title: 9. razred - arhiv
 summary: ucna snov za 9. razred
 ---
 
+### 10. 4. 2020
+
+* [Slovenscina](slovenscina/2020-04-10-slovenscina.pdf)
+* [Matematika](matematika/2020-04-10-matematika.pdf)
+* [LUM](lum/2020-04-10-lum.pdf)
+* [Zgodovina](zgodovina/2020-04-10-zgodovina.pdf)
+* [Fizika](fizika/2020-04-10-fizika.pdf)
+* [MAL](https://ucilnice.arnes.si/mod/folder/view.php?id=1037474)
+
+### 9. 4. 2020
+
+* [Geografija](geografija/2020-04-09-geografija.pdf)
+* Fizika
+    * [Utrjevanje](fizika/2020-04-09-fizika.pdf)
+    * [Pomoc](fizika/2020-04-09-fizika-pomoc.pdf)
+* [Slovenscina](slovenscina/2020-04-09-slovenscina.pdf)
+* [Matematika](matematika/2020-04-09-matematika.pdf)
+* Anglescina
+    * [Snov](anglescina/2020-04-09-anglescina.pdf)
+    * [Powerpoint](anglescina/2020-04-09-anglescina-pp.pdf)
+* [LS3](lum/2020-04-09-ls3.pdf)
+
+### 8. 4. 2020
+
+* Anglescina - poglej na [https://ucilnice.arnes.si/mod/folder/view.php?id=1037469](https://ucilnice.arnes.si/mod/folder/view.php?id=1037469) oz. [navodila](anglescina/2020-04-08-anglescina.pdf)
+* Geografija
+    * [Nema karta](geografija/2020-04-08-geografija-nema-karta.pdf)
+    * [Ucni list](geografija/2020-04-08-geografija.pdf)
+* [Kemija](kemija/2020-04-08-kemija.pdf)
+* Biologija - izpolni [preverjanje znanja](https://www.1ka.si/a/270733)
+* [Sport](sport/2020-04-08-sport.pdf)
+
+### 7. 4. 2020
+
+* [Slovenscina](slovenscina/2020-04-07-slovenscina.pdf)
+* [Matematika](matematika/2020-04-07-matematika.pdf)
+* [Biologija](biologija/2020-04-07-biologija.pdf)
+* Kemija
+    * [Utrjevanje](kemija/2020-04-07-kemija.pdf)
+    * [Pomoc](kemija/2020-04-07-kemija-pomoc.pdf)
+* [Nacini prehranjevanja](nph/2020-04-07-nacini-prehranjevanja.pdf)
+
+### 6. 4. 2020
+
+* [Slovenscina](slovenscina/2020-04-06-slovenscina.pdf)
+* [Matematika](matematika/2020-04-06-matematika.pdf)
+* [Anglescina](anglescina/2020-04-06-anglescina.pdf)
+* [GUM](gum/2020-04-06-gum.pdf)
+* [Zgodovina](zgodovina/2020-04-06-zgodovina.pdf)
+* [Sport](sport/2020-04-06-sport.pdf)
+
+
 ### 3. 4. 2020
 
 * [Slovenscina](slovenscina/2020-04-03-slovenscina.pdf)
