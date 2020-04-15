@@ -3,6 +3,13 @@ title: 9. razred
 summary: ucna snov za 9. razred
 ---
 
+### 16. 4. 2020
+
+* Kulturni dan
+    * [Navodila](2020-04-16-kulturni-dan-navodila.pdf)
+    * [Film in filmska glasba](2020-04-16-kulturni-dan.pdf)
+    * [Prezentacija](2020-04-16-kulturni-dan-pp.pdf)
+
 ### 15. 4. 2020
 * [Slovenscina](slovenscina/2020-04-10-slovenscina.pdf)
 * [Anglescina](anglescina/2020-04-15-anglescina.pdf)

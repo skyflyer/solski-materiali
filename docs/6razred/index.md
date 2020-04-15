@@ -3,6 +3,10 @@ title: 6. razred
 summary: ucna snov za 6. razred
 ---
 
+### 16. 4. 2020
+
+[Tehniski dan](2020-04-16-tehniski-dan.pdf)
+
 ### 15. 4. 2020
 
 * [TIT](tit/2020-04-15-tit.pdf)
