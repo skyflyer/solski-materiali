@@ -3,6 +3,14 @@ title: 9. razred
 summary: ucna snov za 9. razred
 ---
 
+### 24. 4. 2020
+
+Sportni dan!
+
+* [Navodila](sport/2020-04-24-orientacija-navodila.pdf)
+* [Tabela](sport/2020-04-24-orientacija.pdf)
+* [Slika](sport/2020-04-24-orientacija.jpg)
+
 ### 23. 4. 2020
 
 * [Geografija](geografija/2020-04-23-geografija.pdf)
