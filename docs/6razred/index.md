@@ -3,6 +3,15 @@ title: 6. razred
 summary: ucna snov za 6. razred
 ---
 
+### 24. 4. 2020
+
+Sportni dan!
+
+* [Navodila](../9razred/sport/2020-04-24-orientacija-navodila.pdf)
+* [Tabela](../9razred/sport/2020-04-24-orientacija.pdf)
+* [Slika](../9razred/sport/2020-04-24-orientacija.jpg)
+
+
 ### 23. 4. 2020
 
 * [Slovenscina](slovenscina/2020-04-23-slovenscina.pdf)
